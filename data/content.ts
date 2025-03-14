@@ -51,7 +51,7 @@ export const contentData = [
         title: "Research Papers",
         subTitle: "",
         date: "March 2025",
-        description: "As of March 2025, I have completed eight research papers spanning topics from adaptive graph coloring and neural network optimization to fairness in AI and socio-economic transport analysis. Although these papers are not yet formally published, each has undergone rigorous review by professors and examination boards. I am interested in publication opportunities to share my findings with the broader academic community.",
+        description: "As of March 2025, I have completed eight research papers spanning topics from adaptive graph coloring and neural network optimization to fairness in AI and socio-economic transport analysis. Although these papers are not yet formally published, each has undergone rigorous review by professors and examination boards. I am interested in publication opportunities to share my findings with the broader academic community. More detailed information about my research, including abstracts and selected papers, can be found on my website.",
       },
     ],
   },
