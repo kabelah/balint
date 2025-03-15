@@ -4,6 +4,8 @@ import { ServerThemeProvider } from "next-themes";
 import Providers from "./providers";
 import { generalData } from "@/data/general";
 import type { Metadata } from "next";
+import { Analytics } from "@vercel/analytics/react"
+
 
 const inter = Inter({ subsets: ["latin"] });
 
